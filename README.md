@@ -8,7 +8,7 @@ Este material apresenta os códigos do curso **[Pandas Essencial](https://www.yo
 
 Todos os códigos (finais) desenvolvidos no curso estão no jupyter notebook [manipulacao_de_dados.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados.ipynb).
 
-Utilize o notebook [manipulacao_de_dados_codigo_base.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados_codigo_base.ipynb) como _base_ para acompanhamento ee desenvolvimento dos códigos do curso.
+Utilize o notebook [manipulacao_de_dados_codigo_base.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados_codigo_base.ipynb) como _base_ para acompanhamento ee desenvolvimento dos códigos do curso. dKQFkPph8X
 
 O arquivo [pandas_conceitos_basicos_xavecoding.pdf](https://github.com/xavecoding/pandas-essencial/blob/main/pandas_conceitos_basicos_xavecoding.pdf) corresponde aos _slides_ apresentados nos primeiros vídeos do curso 
 
