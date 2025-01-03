@@ -6,7 +6,7 @@ Este material apresenta os códigos do curso **[Pandas Essencial](https://www.yo
 
 ### Materiais do curso
 
-Todos os códigos (finais) desenvolvidos no curso estão no jupyter notebook [manipulacao_de_dados.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados.ipynb). EhRv0JCtC7
+Todos os códigos (finais) desenvolvidos no curso estão no jupyter notebook [manipulacao_de_dados.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados.ipynb).
 
 Utilize o notebook [manipulacao_de_dados_codigo_base.ipynb](https://github.com/xavecoding/pandas-essencial/blob/main/manipulacao_de_dados_codigo_base.ipynb) como _base_ para acompanhamento ee desenvolvimento dos códigos do curso.
 
