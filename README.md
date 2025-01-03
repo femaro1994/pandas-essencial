@@ -1,6 +1,6 @@
 ## Pandas Essencial
 
-Este material apresenta os códigos do curso **[Pandas Essencial](https://www.youtube.com/playlist?list=PL3ZslI15yo2pfkf7EGNR14xTwe-wZ2bNX)**, [disponível no YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2pfkf7EGNR14xTwe-wZ2bNX).
+Este material apresenta os códigos do curso **[Pandas Essencial](https://www.youtube.com/playlist?list=PL3ZslI15yo2pfkf7EGNR14xTwe-wZ2bNX)**, [disponível no YouTube](https://www.youtube.com/playlist?list=PL3ZslI15yo2pfkf7EGNR14xTwe-wZ2bNX). 0zmtdgUTzK
 
 **Professor:** [Samuel Martins (Samuka)](http://hisamuka.github.io/) - [@hisamuka](https://hisamuka.github.io)
 
